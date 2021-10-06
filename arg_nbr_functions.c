@@ -88,4 +88,3 @@ int print_hexa_upper(va_list ap)
 	free(str);
 	return (sum);
 }
-
